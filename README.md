@@ -1,6 +1,7 @@
 # Training-Courses
 
 This is the repo containing all of the company training courses:
+### 2025
 | Courses							| Status 	|
 |-----------------------------------|-----------|
 | MSA Fundamentals					| ✅ 		|
@@ -9,3 +10,8 @@ This is the repo containing all of the company training courses:
 | Langchain Framework Up and Running| ✅ 		|
 | Python Fundamentals				| 🚧 		|
 | Micro FEs							| ⚪ 		|
+
+### 2024
+| Courses							| Status 	|
+|-----------------------------------|-----------|
+| Angular Intensive					| ✅ 		|
