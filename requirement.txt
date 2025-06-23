@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-community
+langchain_openai
+langchain-chroma
+openai
+chromadb
+pypdf
+tiktoken
+duckduckgo-search
