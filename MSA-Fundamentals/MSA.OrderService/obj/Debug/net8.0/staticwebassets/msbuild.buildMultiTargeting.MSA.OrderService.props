@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\MSA.OrderService.props" />
-</Project>
